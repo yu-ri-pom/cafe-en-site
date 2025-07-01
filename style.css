@@ -1,0 +1,28 @@
+body {
+    font-family: 'Yu Mincho', serif;
+    background-color: #fefcf5;
+    color: #3e3e3e;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8f9779; /*和モダンな抹茶色*/
+    color: white;
+    text-align: center;
+    padding: 1.5em 1em;
+}
+
+main {
+    padding: 1.5em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+img {
+max-width: 100%;
+height: auto;
+border-radius: 8px;
+}
